@@ -1,4 +1,5 @@
-# blind-spot
+# Blind-spot RPG
+Nenhum de vocês vê tudo. Em Blind Spot, RPG de sobrevivência cooperativo em tempo real, 1 a 4 jogadores unem tiro tático, diplomacia com facções, quebra-cabeças e registros para escapar de um território hostil. Sua voz é sua maior ferramenta.
 Uma premissa de **RPG coop de sobrevivência em tempo real com informação assimétrica** funciona muito bem porque combate o maior problema do gênero: o "efeito passageiro", onde um jogador experiente resolve tudo sozinho enquanto os outros só seguem. Ao distribuir papéis cognitivos distintos mantendo a ação compartilhada, a comunicação verbal entre os jogadores passa a ser a mecânica central.
 
 ---
@@ -10,6 +11,33 @@ Uma premissa de **RPG coop de sobrevivência em tempo real com informação assi
 * **Tom & Tema:** Expedição em território hostil e desconhecido (ficção científica arcaica, expedição pós-apocalíptica ou fantasia de baixa magia/arqueologia).
 * **O Núcleo da Equipe:** Um grupo de especialistas civis e militares que caíram ou ficaram isolados e dependem exclusivamente da sinergia do quarteto para sobreviver.
 
+---
+
+Três opções de pitch direto para a página da Steam, combinando gancho mecânico, apelo cooperativo e atmosfera:
+
+---
+
+### Opção 1: Foco no Mistério & Informação Assimétrica
+
+* **Título:** **Blind Spot**
+* **Tagline:** *"Nenhum de vocês enxerga o quadro completo: traduza, atire, decifre e registre para escapar com vida."*
+* **Por que funciona:** Destaca imediatamente o diferencial mecânico (a divisão assimétrica de tarefas) e gera curiosidade no jogador fã de coop tático.
+
+---
+
+### Opção 2: Foco em Tensão & Sobrevivência Clássica
+
+* **Título:** **Dead Reckoning**
+* **Tagline:** *"Um atira, um negocia, um resolve, um guia: a sobrevivência em tempo real onde a voz é sua arma mais crítica."*
+* **Por que funciona:** Resume de forma rítmica e direta os quatro papéis do quarteto, deixando claro que a comunicação oral no chat de voz é o verdadeiro núcleo do jogo.
+
+---
+
+### Opção 3: Foco em Sinergia de Sistema & Ação
+
+* **Título:** **Fourfold**
+* **Tagline:** *"Quatro mentes, um único objetivo: combine combate de precisão, lógica e diplomacia para sobreviver a um mundo hostil."*
+* **Por que funciona:** Soa moderno, curto e com peso de estúdio indie consagrado, atraindo quem busca uma experiência com profundidade de sistemas sem perder o ritmo de ação.
 ---
 
 ### Aprofundamento dos 4 Papéis
